@@ -1,0 +1,401 @@
+komentar,predicted_label,confidence
+Sejauh ini matchmaking sering bikin emosi karena tim random.,negatif,0.6475
+Kalau dilihat MOBA ini mirip MOBA lain secara keseluruhan.,netral,0.9195
+Sejauh ini game ini mirip MOBA lain tergantung pemainnya.,netral,0.9286
+Dari sisi gameplay ML mirip MOBA lain untuk sekarang.,netral,0.9318
+Sejauh ini MLBB terasa kompetitif buat hiburan.,netral,0.9189
+Kalau dari pengalamanku MLBB masih asik dimainkan buat hiburan.,netral,0.8981
+Overall mode ranked cukup menyenangkan tanpa harus serius.,netral,0.88
+Jujur aja ML banyak masalah dari sistemnya.,netral,0.6023
+Overall Mobile Legends terasa kompetitif buat hiburan.,netral,0.7862
+Secara umum Mobile Legends tidak terlalu beda secara keseluruhan.,netral,0.9191
+Dari sisi gameplay aplikasi ini cukup standar secara keseluruhan.,netral,0.9312
+Secara umum ML cukup standar untuk sekarang.,netral,0.9322
+Jujur aja mode ranked bikin betah main buat hiburan.,netral,0.8406
+Sejauh ini MOBA ini lumayan stabil tergantung pemainnya.,netral,0.9235
+Yang bikin kesel matchmaking kurang adil gara-gara lag.,negatif,0.9225
+Jujur aja mode ranked cukup mengecewakan karena tim random.,netral,0.6468
+Overall mode ranked masih asik dimainkan buat hiburan.,positif,0.6178
+Terus terang game ini kurang adil karena tim random.,netral,0.8175
+Menurutku mode ranked cukup menyenangkan buat ngilangin penat.,netral,0.8459
+Menurutku ML cukup mengecewakan soal balance hero.,netral,0.5136
+Menurutku MOBA ini punya kelebihan dan kekurangan tergantung pemainnya.,netral,0.9229
+Overall MLBB masih asik dimainkan apalagi kalau mabar.,positif,0.8727
+Sejauh ini mode ranked cukup mengecewakan karena tim random.,netral,0.8129
+Sejauh ini MLBB seru dan nagih tanpa harus serius.,netral,0.8132
+Overall MLBB seru dan nagih buat ngilangin penat.,positif,0.9134
+Menurutku mode ranked terasa kompetitif tanpa harus serius.,netral,0.9097
+Jujur aja mode ranked cukup menyenangkan buat hiburan.,netral,0.925
+Yang bikin kesel game ini banyak masalah gara-gara lag.,negatif,0.8297
+Menurutku MLBB bikin betah main di waktu senggang.,positif,0.5324
+Kalau dari pengalamanku MLBB terasa kompetitif tanpa harus serius.,netral,0.9218
+Terus terang game ini sering bikin emosi karena tim random.,negatif,0.6739
+Menurutku ML banyak masalah soal balance hero.,negatif,0.505
+Terus terang ML terlalu bikin stres karena banyak AFK.,negatif,0.9172
+Terus terang Mobile Legends terlalu bikin stres karena banyak AFK.,negatif,0.7731
+Kalau dari pengalamanku game ini cukup menyenangkan buat ngilangin penat.,netral,0.9151
+Secara umum game ini cukup standar buat game mobile.,netral,0.9292
+Menurutku Mobile Legends cukup menyenangkan apalagi kalau mabar.,netral,0.7141
+Menurutku MLBB cukup menyenangkan apalagi kalau mabar.,netral,0.5598
+Yang bikin kesel ML terlalu bikin stres soal balance hero.,negatif,0.9231
+Sejauh ini main ML seru dan nagih apalagi kalau mabar.,positif,0.8873
+Yang bikin kesel game ini cukup mengecewakan karena tim random.,netral,0.6638
+Kalau dari pengalamanku mode ranked seru dan nagih buat ngilangin penat.,netral,0.6705
+Secara umum MOBA ini lumayan stabil buat game mobile.,netral,0.9291
+Kalau dari pengalamanku main ML terasa kompetitif tanpa harus serius.,netral,0.8802
+Terus terang game ini cukup mengecewakan dari sistemnya.,netral,0.8849
+Sejauh ini game ini mirip MOBA lain secara keseluruhan.,netral,0.9319
+Kalau dari pengalamanku mode ranked masih asik dimainkan apalagi kalau mabar.,netral,0.6543
+Terus terang matchmaking kurang adil soal balance hero.,negatif,0.832
+Yang bikin kesel ML kurang adil karena tim random.,negatif,0.8712
+Sejauh ini MLBB bikin betah main buat ngilangin penat.,netral,0.5979
+Sejauh ini game ini punya kelebihan dan kekurangan tergantung pemainnya.,netral,0.9248
+Menurutku Mobile Legends kurang adil dari sistemnya.,netral,0.9078
+Menurutku Mobile Legends cukup menyenangkan tanpa harus serius.,netral,0.923
+Jujur aja game ini cukup mengecewakan karena tim random.,netral,0.8671
+Sejauh ini mode ranked terasa kompetitif apalagi kalau mabar.,netral,0.624
+Secara umum MOBA ini tidak terlalu beda buat game mobile.,netral,0.9286
+Kalau dari pengalamanku MLBB seru dan nagih buat ngilangin penat.,netral,0.5251
+Jujur aja mode ranked masih asik dimainkan tanpa harus serius.,netral,0.8989
+Sejauh ini matchmaking terlalu bikin stres dari sistemnya.,netral,0.7501
+Sejauh ini ML cukup mengecewakan dari sistemnya.,netral,0.886
+Sejauh ini game ini banyak masalah dari sistemnya.,netral,0.9186
+Kalau dilihat MOBA ini punya kelebihan dan kekurangan untuk sekarang.,netral,0.9222
+Menurutku game ini cukup mengecewakan soal balance hero.,netral,0.844
+Menurutku mode ranked terasa kompetitif di waktu senggang.,netral,0.7983
+Overall Mobile Legends masih asik dimainkan buat hiburan.,positif,0.4801
+Overall Mobile Legends terasa kompetitif apalagi kalau mabar.,positif,0.7782
+Jujur aja mode ranked terasa kompetitif buat ngilangin penat.,netral,0.6034
+Sejauh ini game ini kurang adil karena banyak AFK.,netral,0.881
+Yang bikin kesel matchmaking kurang adil dari sistemnya.,negatif,0.7492
+Kalau dari pengalamanku game ini cukup menyenangkan di waktu senggang.,netral,0.9031
+Jujur aja game ini banyak masalah karena banyak AFK.,netral,0.7936
+Menurutku main ML terasa kompetitif apalagi kalau mabar.,positif,0.7229
+Kalau dilihat MOBA ini lumayan stabil buat game mobile.,netral,0.9193
+Sejauh ini game ini seru dan nagih di waktu senggang.,netral,0.7609
+Jujur aja Mobile Legends banyak masalah karena tim random.,netral,0.7352
+Yang bikin kesel game ini terlalu bikin stres gara-gara lag.,negatif,0.8414
+Terus terang Mobile Legends sering bikin emosi dari sistemnya.,netral,0.5627
+Dari sisi gameplay MOBA ini punya kelebihan dan kekurangan kalau dimainkan santai.,netral,0.9277
+Yang bikin kesel Mobile Legends cukup mengecewakan karena tim random.,netral,0.6592
+Overall Mobile Legends bikin betah main tanpa harus serius.,positif,0.5483
+Terus terang ML sering bikin emosi karena tim random.,negatif,0.8859
+Kalau dari pengalamanku game ini cukup menyenangkan buat hiburan.,netral,0.9287
+Terus terang mode ranked banyak masalah karena tim random.,negatif,0.7377
+Menurutku game ini cukup menyenangkan buat ngilangin penat.,netral,0.8663
+Menurutku MLBB seru dan nagih buat ngilangin penat.,positif,0.6047
+Sejauh ini Mobile Legends cukup menyenangkan apalagi kalau mabar.,netral,0.8164
+Jujur aja Mobile Legends seru dan nagih buat ngilangin penat.,netral,0.5056
+Secara umum Mobile Legends lumayan stabil kalau dimainkan santai.,netral,0.9206
+Yang bikin kesel matchmaking cukup mengecewakan soal balance hero.,negatif,0.8426
+Menurutku ML banyak masalah dari sistemnya.,netral,0.787
+Menurutku Mobile Legends cukup standar kalau dimainkan santai.,netral,0.9253
+Yang bikin kesel Mobile Legends sering bikin emosi dari sistemnya.,negatif,0.5955
+Sejauh ini game ini masih asik dimainkan tanpa harus serius.,netral,0.9213
+Jujur aja matchmaking terlalu bikin stres dari sistemnya.,negatif,0.513
+Yang bikin kesel Mobile Legends kurang adil soal balance hero.,negatif,0.7692
+Menurutku Mobile Legends cukup mengecewakan soal balance hero.,netral,0.8334
+Sejauh ini game ini kurang adil gara-gara lag.,netral,0.8611
+Menurutku Mobile Legends terlalu bikin stres dari sistemnya.,netral,0.8563
+Menurutku Mobile Legends tidak terlalu beda untuk sekarang.,netral,0.9229
+Menurutku MOBA ini mirip MOBA lain buat game mobile.,netral,0.9228
+Menurutku ML sering bikin emosi dari sistemnya.,negatif,0.5567
+Kalau dilihat ML cukup standar untuk sekarang.,netral,0.93
+Kalau dilihat game ini mirip MOBA lain tergantung pemainnya.,netral,0.9234
+Menurutku Mobile Legends kurang adil karena banyak AFK.,netral,0.8381
+Menurutku game ini tidak terlalu beda kalau dimainkan santai.,netral,0.9282
+Jujur aja Mobile Legends seru dan nagih apalagi kalau mabar.,positif,0.796
+Dari sisi gameplay MOBA ini tidak terlalu beda secara keseluruhan.,netral,0.9288
+Kalau dilihat game ini cukup standar kalau dimainkan santai.,netral,0.9295
+Menurutku MLBB seru dan nagih buat hiburan.,netral,0.619
+Overall Mobile Legends bikin betah main apalagi kalau mabar.,positif,0.8962
+Kalau dari pengalamanku game ini bikin betah main tanpa harus serius.,netral,0.9147
+Kalau dari pengalamanku main ML seru dan nagih di waktu senggang.,positif,0.7979
+Kalau dari pengalamanku game ini seru dan nagih buat hiburan.,netral,0.8633
+Kalau dari pengalamanku main ML bikin betah main apalagi kalau mabar.,positif,0.6496
+Menurutku mode ranked sering bikin emosi karena banyak AFK.,negatif,0.7531
+Overall MLBB cukup menyenangkan apalagi kalau mabar.,positif,0.8618
+Terus terang mode ranked banyak masalah dari sistemnya.,netral,0.6985
+Kalau dari pengalamanku mode ranked masih asik dimainkan di waktu senggang.,netral,0.8466
+Menurutku matchmaking sering bikin emosi karena banyak AFK.,negatif,0.8309
+Overall mode ranked bikin betah main buat hiburan.,positif,0.8272
+Jujur aja mode ranked seru dan nagih di waktu senggang.,positif,0.8319
+Menurutku game ini cukup menyenangkan tanpa harus serius.,netral,0.9292
+Sejauh ini game ini cukup mengecewakan dari sistemnya.,netral,0.9161
+Jujur aja mode ranked seru dan nagih apalagi kalau mabar.,positif,0.8994
+Sejauh ini Mobile Legends kurang adil dari sistemnya.,netral,0.9123
+Jujur aja main ML masih asik dimainkan di waktu senggang.,positif,0.6363
+Secara umum game ini mirip MOBA lain tergantung pemainnya.,netral,0.9291
+Yang bikin kesel game ini cukup mengecewakan dari sistemnya.,netral,0.8237
+Jujur aja ML sering bikin emosi karena banyak AFK.,negatif,0.8688
+Sejauh ini ML terlalu bikin stres karena tim random.,negatif,0.5409
+Jujur aja ML terlalu bikin stres dari sistemnya.,negatif,0.646
+Sejauh ini ML mirip MOBA lain tergantung pemainnya.,netral,0.9234
+Kalau dilihat ML mirip MOBA lain tergantung pemainnya.,netral,0.9077
+Menurutku matchmaking cukup mengecewakan karena banyak AFK.,netral,0.5207
+Dari sisi gameplay Mobile Legends punya kelebihan dan kekurangan kalau dimainkan santai.,netral,0.9259
+Menurutku main ML masih asik dimainkan di waktu senggang.,netral,0.5179
+Sejauh ini ML terlalu bikin stres soal balance hero.,negatif,0.6468
+Dari sisi gameplay MOBA ini punya kelebihan dan kekurangan untuk sekarang.,netral,0.9307
+Sejauh ini mode ranked terlalu bikin stres dari sistemnya.,netral,0.8151
+Terus terang game ini banyak masalah karena tim random.,netral,0.7721
+Secara umum aplikasi ini mirip MOBA lain buat game mobile.,netral,0.9269
+Sejauh ini ML cukup mengecewakan karena banyak AFK.,netral,0.6575
+Sejauh ini ML kurang adil karena banyak AFK.,negatif,0.5425
+Jujur aja MLBB bikin betah main apalagi kalau mabar.,positif,0.7828
+Sejauh ini Mobile Legends mirip MOBA lain kalau dimainkan santai.,netral,0.9255
+Kalau dari pengalamanku Mobile Legends terasa kompetitif buat hiburan.,netral,0.9187
+Dari sisi gameplay MOBA ini punya kelebihan dan kekurangan secara keseluruhan.,netral,0.93
+Overall MLBB masih asik dimainkan buat ngilangin penat.,positif,0.7776
+Overall main ML bikin betah main buat ngilangin penat.,positif,0.9272
+Sejauh ini game ini cukup mengecewakan karena banyak AFK.,netral,0.8714
+Jujur aja ML kurang adil karena tim random.,negatif,0.7476
+Menurutku game ini cukup standar kalau dimainkan santai.,netral,0.9318
+Sejauh ini game ini masih asik dimainkan buat ngilangin penat.,netral,0.8716
+Overall MLBB cukup menyenangkan buat ngilangin penat.,positif,0.6655
+Jujur aja ML sering bikin emosi gara-gara lag.,negatif,0.904
+Sejauh ini Mobile Legends sering bikin emosi soal balance hero.,negatif,0.5118
+Kalau dilihat aplikasi ini tidak terlalu beda secara keseluruhan.,netral,0.9129
+Jujur aja MLBB cukup menyenangkan di waktu senggang.,netral,0.8239
+Kalau dari pengalamanku main ML bikin betah main buat ngilangin penat.,netral,0.4971
+Kalau dilihat MOBA ini mirip MOBA lain tergantung pemainnya.,netral,0.9137
+Dari sisi gameplay Mobile Legends mirip MOBA lain untuk sekarang.,netral,0.9308
+Jujur aja mode ranked cukup mengecewakan karena banyak AFK.,netral,0.5147
+Jujur aja Mobile Legends banyak masalah karena banyak AFK.,netral,0.5339
+Menurutku main ML bikin betah main buat hiburan.,positif,0.5776
+Dari sisi gameplay aplikasi ini tidak terlalu beda secara keseluruhan.,netral,0.9273
+Terus terang Mobile Legends kurang adil karena tim random.,netral,0.7684
+Terus terang ML kurang adil karena tim random.,negatif,0.7899
+Jujur aja MLBB cukup menyenangkan buat hiburan.,netral,0.922
+Menurutku Mobile Legends mirip MOBA lain kalau dimainkan santai.,netral,0.9158
+Jujur aja main ML seru dan nagih tanpa harus serius.,positif,0.8316
+Jujur aja Mobile Legends cukup menyenangkan tanpa harus serius.,netral,0.9248
+Secara umum Mobile Legends mirip MOBA lain kalau dimainkan santai.,netral,0.9206
+Kalau dari pengalamanku game ini masih asik dimainkan di waktu senggang.,netral,0.8578
+Sejauh ini mode ranked cukup menyenangkan di waktu senggang.,netral,0.9221
+Menurutku matchmaking terlalu bikin stres soal balance hero.,negatif,0.7613
+Secara umum Mobile Legends tidak terlalu beda tergantung pemainnya.,netral,0.9159
+Terus terang mode ranked cukup mengecewakan karena tim random.,netral,0.5058
+Sejauh ini ML kurang adil soal balance hero.,netral,0.5833
+Sejauh ini MOBA ini mirip MOBA lain secara keseluruhan.,netral,0.9289
+Yang bikin kesel Mobile Legends sering bikin emosi gara-gara lag.,negatif,0.8853
+Sejauh ini mode ranked terasa kompetitif tanpa harus serius.,netral,0.9179
+Kalau dilihat Mobile Legends mirip MOBA lain kalau dimainkan santai.,netral,0.9143
+Sejauh ini ML sering bikin emosi gara-gara lag.,negatif,0.865
+Jujur aja Mobile Legends bikin betah main apalagi kalau mabar.,positif,0.5745
+Secara umum MOBA ini lumayan stabil tergantung pemainnya.,netral,0.9254
+Yang bikin kesel ML kurang adil soal balance hero.,negatif,0.8995
+Menurutku mode ranked cukup menyenangkan tanpa harus serius.,netral,0.9248
+Dari sisi gameplay aplikasi ini mirip MOBA lain kalau dimainkan santai.,netral,0.9307
+Sejauh ini MLBB seru dan nagih buat hiburan.,netral,0.785
+Overall MLBB bikin betah main apalagi kalau mabar.,positif,0.9199
+Jujur aja ML kurang adil karena banyak AFK.,negatif,0.8117
+Kalau dari pengalamanku Mobile Legends masih asik dimainkan buat ngilangin penat.,netral,0.8908
+Sejauh ini matchmaking sering bikin emosi soal balance hero.,negatif,0.7876
+Dari sisi gameplay Mobile Legends mirip MOBA lain tergantung pemainnya.,netral,0.9278
+Jujur aja Mobile Legends cukup mengecewakan soal balance hero.,netral,0.7674
+Jujur aja game ini cukup mengecewakan soal balance hero.,netral,0.8346
+Menurutku MOBA ini tidak terlalu beda tergantung pemainnya.,netral,0.9207
+Dari sisi gameplay Mobile Legends cukup standar tergantung pemainnya.,netral,0.9278
+Jujur aja Mobile Legends sering bikin emosi karena banyak AFK.,negatif,0.6739
+Dari sisi gameplay MOBA ini cukup standar buat game mobile.,netral,0.9305
+Jujur aja ML cukup mengecewakan soal balance hero.,negatif,0.5748
+Terus terang mode ranked terlalu bikin stres karena banyak AFK.,negatif,0.9064
+Sejauh ini mode ranked masih asik dimainkan buat ngilangin penat.,netral,0.8722
+Terus terang Mobile Legends sering bikin emosi gara-gara lag.,negatif,0.8641
+Sejauh ini mode ranked terlalu bikin stres karena banyak AFK.,negatif,0.6002
+Sejauh ini MOBA ini tidak terlalu beda secara keseluruhan.,netral,0.9257
+Secara umum aplikasi ini lumayan stabil secara keseluruhan.,netral,0.9273
+Dari sisi gameplay game ini lumayan stabil secara keseluruhan.,netral,0.9244
+Overall main ML cukup menyenangkan buat ngilangin penat.,positif,0.8954
+Kalau dari pengalamanku main ML masih asik dimainkan buat hiburan.,netral,0.8021
+Sejauh ini game ini cukup mengecewakan soal balance hero.,netral,0.8798
+Menurutku mode ranked terlalu bikin stres soal balance hero.,negatif,0.585
+Kalau dari pengalamanku mode ranked cukup menyenangkan di waktu senggang.,netral,0.8839
+Sejauh ini game ini tidak terlalu beda untuk sekarang.,netral,0.9291
+Overall game ini bikin betah main tanpa harus serius.,positif,0.5466
+Overall game ini seru dan nagih apalagi kalau mabar.,positif,0.9049
+Jujur aja main ML terasa kompetitif tanpa harus serius.,netral,0.6501
+Secara umum aplikasi ini tidak terlalu beda secara keseluruhan.,netral,0.9217
+Menurutku game ini tidak terlalu beda buat game mobile.,netral,0.9275
+Menurutku mode ranked kurang adil karena tim random.,netral,0.7543
+Menurutku mode ranked kurang adil gara-gara lag.,negatif,0.6481
+Sejauh ini game ini lumayan stabil buat game mobile.,netral,0.9256
+Overall MLBB bikin betah main buat hiburan.,positif,0.8456
+Kalau dari pengalamanku mode ranked cukup menyenangkan buat ngilangin penat.,netral,0.9064
+Menurutku mode ranked bikin betah main di waktu senggang.,positif,0.5502
+Dari sisi gameplay ML tidak terlalu beda kalau dimainkan santai.,netral,0.9328
+Yang bikin kesel matchmaking cukup mengecewakan dari sistemnya.,netral,0.4764
+Menurutku Mobile Legends terlalu bikin stres karena banyak AFK.,netral,0.5607
+Secara umum Mobile Legends lumayan stabil buat game mobile.,netral,0.9226
+Menurutku ML kurang adil gara-gara lag.,negatif,0.7761
+Overall game ini masih asik dimainkan di waktu senggang.,positif,0.5761
+Overall mode ranked seru dan nagih apalagi kalau mabar.,positif,0.9302
+Sejauh ini matchmaking kurang adil karena banyak AFK.,negatif,0.4717
+Kalau dari pengalamanku mode ranked bikin betah main buat hiburan.,netral,0.876
+Terus terang game ini banyak masalah soal balance hero.,netral,0.696
+Overall game ini masih asik dimainkan tanpa harus serius.,netral,0.7994
+Kalau dari pengalamanku main ML cukup menyenangkan di waktu senggang.,netral,0.5675
+Overall game ini seru dan nagih di waktu senggang.,positif,0.8791
+Menurutku game ini seru dan nagih buat hiburan.,netral,0.8424
+Terus terang game ini kurang adil gara-gara lag.,negatif,0.5131
+Dari sisi gameplay ML cukup standar untuk sekarang.,netral,0.9357
+Sejauh ini ML tidak terlalu beda secara keseluruhan.,netral,0.9155
+Sejauh ini ML punya kelebihan dan kekurangan secara keseluruhan.,netral,0.9163
+Kalau dari pengalamanku mode ranked cukup menyenangkan tanpa harus serius.,netral,0.9337
+Overall mode ranked terasa kompetitif apalagi kalau mabar.,positif,0.8742
+Sejauh ini MLBB seru dan nagih buat ngilangin penat.,positif,0.4717
+Sejauh ini mode ranked cukup menyenangkan apalagi kalau mabar.,netral,0.743
+Overall MLBB terasa kompetitif apalagi kalau mabar.,positif,0.8709
+Overall mode ranked bikin betah main tanpa harus serius.,positif,0.7954
+Terus terang ML sering bikin emosi gara-gara lag.,negatif,0.9221
+Secara umum ML punya kelebihan dan kekurangan secara keseluruhan.,netral,0.9106
+Terus terang ML cukup mengecewakan dari sistemnya.,netral,0.7121
+Yang bikin kesel Mobile Legends cukup mengecewakan karena banyak AFK.,negatif,0.5105
+Terus terang game ini banyak masalah dari sistemnya.,netral,0.8794
+Jujur aja ML terlalu bikin stres karena banyak AFK.,negatif,0.8784
+Jujur aja game ini seru dan nagih di waktu senggang.,positif,0.5187
+Jujur aja Mobile Legends masih asik dimainkan tanpa harus serius.,netral,0.897
+Sejauh ini mode ranked cukup mengecewakan gara-gara lag.,netral,0.6564
+Overall game ini terasa kompetitif apalagi kalau mabar.,positif,0.7689
+Sejauh ini ML banyak masalah karena banyak AFK.,netral,0.5009
+Dari sisi gameplay MOBA ini lumayan stabil tergantung pemainnya.,netral,0.9247
+Sejauh ini MOBA ini tidak terlalu beda kalau dimainkan santai.,netral,0.9294
+Overall mode ranked bikin betah main apalagi kalau mabar.,positif,0.9197
+Sejauh ini game ini terlalu bikin stres karena tim random.,netral,0.8314
+Terus terang matchmaking terlalu bikin stres soal balance hero.,negatif,0.9039
+Dari sisi gameplay MOBA ini lumayan stabil buat game mobile.,netral,0.9236
+Dari sisi gameplay aplikasi ini lumayan stabil secara keseluruhan.,netral,0.9184
+Kalau dilihat Mobile Legends cukup standar tergantung pemainnya.,netral,0.9181
+Sejauh ini mode ranked kurang adil soal balance hero.,netral,0.7338
+Yang bikin kesel mode ranked sering bikin emosi dari sistemnya.,negatif,0.8449
+Jujur aja Mobile Legends terasa kompetitif apalagi kalau mabar.,netral,0.5968
+Jujur aja MLBB masih asik dimainkan buat hiburan.,netral,0.8505
+Menurutku matchmaking kurang adil karena banyak AFK.,negatif,0.5991
+Jujur aja ML banyak masalah gara-gara lag.,negatif,0.8978
+Terus terang Mobile Legends banyak masalah soal balance hero.,negatif,0.5227
+Menurutku matchmaking banyak masalah dari sistemnya.,netral,0.834
+Terus terang matchmaking sering bikin emosi karena tim random.,negatif,0.8834
+Sejauh ini matchmaking terlalu bikin stres gara-gara lag.,negatif,0.8514
+Yang bikin kesel matchmaking cukup mengecewakan gara-gara lag.,negatif,0.8922
+Jujur aja Mobile Legends terasa kompetitif tanpa harus serius.,netral,0.9119
+Menurutku Mobile Legends cukup mengecewakan karena banyak AFK.,netral,0.844
+Sejauh ini game ini masih asik dimainkan buat hiburan.,netral,0.9138
+Kalau dari pengalamanku MLBB bikin betah main buat ngilangin penat.,netral,0.7065
+Yang bikin kesel mode ranked banyak masalah karena banyak AFK.,negatif,0.9151
+Terus terang ML kurang adil karena banyak AFK.,negatif,0.8736
+Sejauh ini Mobile Legends bikin betah main apalagi kalau mabar.,netral,0.5568
+Dari sisi gameplay aplikasi ini cukup standar buat game mobile.,netral,0.929
+Kalau dari pengalamanku Mobile Legends bikin betah main di waktu senggang.,netral,0.7514
+Sejauh ini main ML bikin betah main apalagi kalau mabar.,positif,0.8042
+Kalau dilihat ML cukup standar tergantung pemainnya.,netral,0.9209
+Yang bikin kesel ML cukup mengecewakan karena tim random.,negatif,0.7636
+Jujur aja mode ranked terlalu bikin stres dari sistemnya.,netral,0.6385
+Jujur aja game ini terlalu bikin stres gara-gara lag.,negatif,0.5819
+Terus terang mode ranked terlalu bikin stres gara-gara lag.,negatif,0.9297
+Overall mode ranked bikin betah main buat ngilangin penat.,positif,0.8866
+Menurutku ML banyak masalah karena tim random.,negatif,0.5188
+Overall main ML cukup menyenangkan tanpa harus serius.,positif,0.7983
+Yang bikin kesel Mobile Legends sering bikin emosi karena tim random.,negatif,0.7597
+Menurutku game ini seru dan nagih apalagi kalau mabar.,positif,0.7429
+Menurutku main ML cukup menyenangkan apalagi kalau mabar.,positif,0.6551
+Jujur aja mode ranked terlalu bikin stres gara-gara lag.,negatif,0.9021
+Menurutku game ini masih asik dimainkan apalagi kalau mabar.,netral,0.6668
+Kalau dari pengalamanku mode ranked seru dan nagih tanpa harus serius.,netral,0.8215
+Sejauh ini ML mirip MOBA lain secara keseluruhan.,netral,0.9302
+Yang bikin kesel matchmaking kurang adil karena banyak AFK.,negatif,0.9022
+Kalau dari pengalamanku MLBB cukup menyenangkan buat hiburan.,netral,0.9267
+Yang bikin kesel game ini banyak masalah dari sistemnya.,netral,0.6707
+Kalau dilihat game ini tidak terlalu beda buat game mobile.,netral,0.9229
+Overall MLBB cukup menyenangkan di waktu senggang.,positif,0.7042
+Menurutku game ini cukup mengecewakan karena tim random.,netral,0.8534
+Menurutku MLBB terasa kompetitif apalagi kalau mabar.,netral,0.473
+Terus terang ML sering bikin emosi karena banyak AFK.,negatif,0.9054
+Menurutku ML terlalu bikin stres dari sistemnya.,netral,0.4859
+Terus terang ML terlalu bikin stres soal balance hero.,negatif,0.9111
+Kalau dari pengalamanku game ini seru dan nagih tanpa harus serius.,netral,0.8965
+Menurutku game ini sering bikin emosi gara-gara lag.,negatif,0.7109
+Sejauh ini game ini terasa kompetitif apalagi kalau mabar.,netral,0.8335
+Sejauh ini ML terlalu bikin stres karena banyak AFK.,negatif,0.7516
+Sejauh ini Mobile Legends cukup menyenangkan buat hiburan.,netral,0.9291
+Menurutku game ini punya kelebihan dan kekurangan secara keseluruhan.,netral,0.9281
+Kalau dari pengalamanku MLBB terasa kompetitif apalagi kalau mabar.,netral,0.6073
+Terus terang Mobile Legends kurang adil gara-gara lag.,negatif,0.748
+Kalau dari pengalamanku main ML masih asik dimainkan tanpa harus serius.,netral,0.8782
+Kalau dari pengalamanku main ML masih asik dimainkan buat ngilangin penat.,netral,0.6861
+Sejauh ini aplikasi ini punya kelebihan dan kekurangan kalau dimainkan santai.,netral,0.9232
+Menurutku MLBB bikin betah main tanpa harus serius.,netral,0.8549
+Terus terang matchmaking terlalu bikin stres karena tim random.,negatif,0.8765
+Menurutku aplikasi ini cukup standar untuk sekarang.,netral,0.9299
+Jujur aja main ML terasa kompetitif buat hiburan.,netral,0.7281
+Jujur aja Mobile Legends seru dan nagih tanpa harus serius.,netral,0.7882
+Jujur aja matchmaking terlalu bikin stres karena banyak AFK.,negatif,0.8842
+Kalau dari pengalamanku Mobile Legends seru dan nagih tanpa harus serius.,netral,0.8769
+Terus terang matchmaking banyak masalah karena tim random.,negatif,0.8075
+Sejauh ini MLBB cukup menyenangkan tanpa harus serius.,netral,0.9356
+Sejauh ini matchmaking banyak masalah gara-gara lag.,negatif,0.7592
+Menurutku MOBA ini cukup standar untuk sekarang.,netral,0.9312
+Jujur aja main ML seru dan nagih apalagi kalau mabar.,positif,0.9057
+Yang bikin kesel mode ranked banyak masalah dari sistemnya.,negatif,0.7132
+Menurutku game ini masih asik dimainkan buat hiburan.,netral,0.9069
+Secara umum ML mirip MOBA lain untuk sekarang.,netral,0.9294
+Kalau dari pengalamanku game ini masih asik dimainkan buat hiburan.,netral,0.9083
+Dari sisi gameplay aplikasi ini lumayan stabil untuk sekarang.,netral,0.9302
+Secara umum MOBA ini mirip MOBA lain secara keseluruhan.,netral,0.9273
+Menurutku game ini punya kelebihan dan kekurangan kalau dimainkan santai.,netral,0.9279
+Sejauh ini Mobile Legends cukup mengecewakan gara-gara lag.,netral,0.8151
+Dari sisi gameplay game ini tidak terlalu beda kalau dimainkan santai.,netral,0.9307
+Secara umum MOBA ini lumayan stabil untuk sekarang.,netral,0.9314
+Kalau dari pengalamanku MLBB terasa kompetitif buat hiburan.,netral,0.9215
+Kalau dilihat aplikasi ini punya kelebihan dan kekurangan tergantung pemainnya.,netral,0.9155
+Kalau dilihat Mobile Legends tidak terlalu beda buat game mobile.,netral,0.9197
+Sejauh ini game ini masih asik dimainkan apalagi kalau mabar.,netral,0.7896
+Kalau dari pengalamanku mode ranked seru dan nagih buat hiburan.,netral,0.7467
+Jujur aja Mobile Legends cukup menyenangkan buat ngilangin penat.,netral,0.8885
+Secara umum game ini cukup standar kalau dimainkan santai.,netral,0.9296
+Menurutku Mobile Legends bikin betah main tanpa harus serius.,netral,0.8993
+Jujur aja game ini terasa kompetitif buat hiburan.,netral,0.923
+Menurutku ML mirip MOBA lain secara keseluruhan.,netral,0.9177
+Menurutku Mobile Legends seru dan nagih apalagi kalau mabar.,positif,0.7289
+Terus terang ML terlalu bikin stres karena tim random.,negatif,0.8985
+Sejauh ini mode ranked cukup menyenangkan buat ngilangin penat.,netral,0.9171
+Yang bikin kesel Mobile Legends sering bikin emosi soal balance hero.,negatif,0.8714
+Yang bikin kesel ML sering bikin emosi karena banyak AFK.,negatif,0.9139
+Menurutku MLBB seru dan nagih tanpa harus serius.,netral,0.6485
+Kalau dilihat game ini lumayan stabil secara keseluruhan.,netral,0.9163
+Secara umum Mobile Legends tidak terlalu beda kalau dimainkan santai.,netral,0.9211
+Secara umum Mobile Legends lumayan stabil secara keseluruhan.,netral,0.9243
+Menurutku MLBB terasa kompetitif buat hiburan.,netral,0.9116
+Menurutku game ini kurang adil karena banyak AFK.,netral,0.8319
+Menurutku MOBA ini punya kelebihan dan kekurangan untuk sekarang.,netral,0.9279
+Jujur aja mode ranked terlalu bikin stres karena tim random.,negatif,0.756
+Kalau dilihat ML cukup standar buat game mobile.,netral,0.9294
+Jujur aja ML sering bikin emosi karena tim random.,negatif,0.8464
+Jujur aja mode ranked kurang adil soal balance hero.,netral,0.4702
+Sejauh ini aplikasi ini lumayan stabil buat game mobile.,netral,0.922
+Yang bikin kesel Mobile Legends banyak masalah dari sistemnya.,netral,0.6119
+Dari sisi gameplay game ini mirip MOBA lain secara keseluruhan.,netral,0.9326
+Jujur aja mode ranked banyak masalah soal balance hero.,negatif,0.5556
+Jujur aja MLBB terasa kompetitif tanpa harus serius.,netral,0.8845
+Terus terang matchmaking banyak masalah dari sistemnya.,netral,0.5439
+Terus terang Mobile Legends banyak masalah karena tim random.,netral,0.6206
+Yang bikin kesel mode ranked cukup mengecewakan karena banyak AFK.,negatif,0.8044
+Dari sisi gameplay aplikasi ini tidak terlalu beda buat game mobile.,netral,0.9286
+Jujur aja game ini cukup menyenangkan apalagi kalau mabar.,netral,0.7456
+Terus terang game ini cukup mengecewakan karena banyak AFK.,netral,0.7489
+Menurutku Mobile Legends bikin betah main buat hiburan.,netral,0.8417
+Dari sisi gameplay aplikasi ini cukup standar tergantung pemainnya.,netral,0.9285
+Secara umum game ini punya kelebihan dan kekurangan buat game mobile.,netral,0.9271
+Dari sisi gameplay game ini mirip MOBA lain tergantung pemainnya.,netral,0.932
+Terus terang matchmaking terlalu bikin stres dari sistemnya.,negatif,0.7636
+Secara umum game ini mirip MOBA lain buat game mobile.,netral,0.928
+Terus terang ML kurang adil dari sistemnya.,negatif,0.5458
+Sejauh ini game ini bikin betah main tanpa harus serius.,netral,0.9172
+Menurutku game ini bikin betah main apalagi kalau mabar.,positif,0.6776
+Yang bikin kesel Mobile Legends banyak masalah karena banyak AFK.,negatif,0.8505
+Menurutku MLBB terasa kompetitif di waktu senggang.,netral,0.7814
+Sejauh ini ML kurang adil karena tim random.,netral,0.6867
+Secara umum ML tidak terlalu beda secara keseluruhan.,netral,0.8928
+Sejauh ini Mobile Legends lumayan stabil buat game mobile.,netral,0.9249
+Menurutku ML tidak terlalu beda kalau dimainkan santai.,netral,0.9128
+Overall Mobile Legends terasa kompetitif di waktu senggang.,positif,0.544
